@@ -1,0 +1,107 @@
+2025-03-21 11:45:46 INFO  TC001LoginWebPage:19 - ***** Starting TC001_LoginWebPagestarts  ****
+2025-03-21 11:45:46 INFO  TC001LoginWebPage:34 - ***** Login WebPage Successful  ****
+2025-03-21 11:45:59 INFO  TC001LoginWebPage:85 - ***** Finished TC001_LoginWebPageTest   ****
+2025-03-21 11:45:59 INFO  TC001LoginWebPage:19 - ***** Starting TC001_LoginWebPagestarts  ****
+2025-03-21 11:46:09 ERROR TC001LoginWebPage:80 - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='login_Layer']"}
+  (Session info: chrome=134.0.6998.118)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4bb5f552cd15595d3395cafe9908cffc, findElement {using=xpath, value=//a[@id='login_Layer']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.90 (219ee74681fc..., userDataDir: C:\Users\vishn\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63180}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63180/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bb5f552cd15595d3395cafe9908cffc
+2025-03-21 11:46:09 INFO  TC001LoginWebPage:85 - ***** Finished TC001_LoginWebPageTest   ****
+2025-03-21 11:49:59 INFO  TC001LoginWebPage:19 - ***** Starting TC001_LoginWebPagestarts  ****
+2025-03-21 11:50:00 INFO  TC001LoginWebPage:34 - ***** Login WebPage Successful  ****
+2025-03-21 11:50:13 INFO  TC001LoginWebPage:87 - ***** Finished TC001_LoginWebPageTest   ****
+2025-03-21 11:50:13 INFO  TC001LoginWebPage:19 - ***** Starting TC001_LoginWebPagestarts  ****
+2025-03-21 11:50:23 ERROR TC001LoginWebPage:82 - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='login_Layer']"}
+  (Session info: chrome=134.0.6998.118)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bad3e8c55536bc0c8c0d5adef7901b7c, findElement {using=xpath, value=//a[@id='login_Layer']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.90 (219ee74681fc..., userDataDir: C:\Users\vishn\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63281}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63281/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bad3e8c55536bc0c8c0d5adef7901b7c
+2025-03-21 11:50:23 INFO  TC001LoginWebPage:87 - ***** Finished TC001_LoginWebPageTest   ****
+2025-03-21 11:53:19 INFO  TC001LoginWebPage:19 - ***** Starting TC001_LoginWebPagestarts  ****
+2025-03-21 11:53:19 INFO  TC001LoginWebPage:34 - ***** Login WebPage Successful  ****
+2025-03-21 11:53:23 INFO  TC001LoginWebPage:87 - ***** Finished TC001_LoginWebPageTest   ****
+2025-03-21 11:53:23 INFO  TC001LoginWebPage:19 - ***** Starting TC001_LoginWebPagestarts  ****
+2025-03-21 11:53:24 INFO  TC001LoginWebPage:34 - ***** Login WebPage Successful  ****
+2025-03-21 11:53:28 INFO  TC001LoginWebPage:87 - ***** Finished TC001_LoginWebPageTest   ****
+2025-03-21 12:03:52 INFO  TC002LoginWebPage:15 - ***** Starting TC002_LoginWebPagestarts  ****
+2025-03-21 12:03:53 INFO  TC002LoginWebPage:25 - ***** Login WebPage Successful  ****
+2025-03-21 12:03:59 INFO  TC002LoginWebPage:34 - ***** Updated details successfully  ****
+2025-03-21 12:04:05 INFO  TC002LoginWebPage:55 - ***** Finished TC002_LoginWebPageTest   ****
+2025-03-21 12:05:14 INFO  TC001LoginDDT:19 - ***** Starting TC001_LoginDDT  ****
+2025-03-21 12:05:14 INFO  TC001LoginDDT:34 - ***** Login WebPage Successful  ****
+2025-03-21 12:05:18 INFO  TC001LoginDDT:87 - ***** Finished TC001_LoginDDT   ****
+2025-03-21 12:05:18 INFO  TC001LoginDDT:19 - ***** Starting TC001_LoginDDT  ****
+2025-03-21 12:05:20 INFO  TC001LoginDDT:34 - ***** Login WebPage Successful  ****
+2025-03-21 12:05:24 INFO  TC001LoginDDT:87 - ***** Finished TC001_LoginDDT   ****
+2025-03-21 12:05:35 INFO  TC002LoginWebPage:15 - ***** Starting TC002_LoginWebPagestarts  ****
+2025-03-21 12:05:35 INFO  TC002LoginWebPage:25 - ***** Login WebPage Successful  ****
+2025-03-21 12:05:45 INFO  TC002LoginWebPage:34 - ***** Updated details successfully  ****
+2025-03-21 12:05:51 INFO  TC002LoginWebPage:55 - ***** Finished TC002_LoginWebPageTest   ****
+2025-03-21 12:33:39 INFO  TC001LoginDDT:19 - ***** Starting TC001_LoginDDT  ****
+2025-03-21 12:33:39 INFO  TC001LoginDDT:34 - ***** Login WebPage Successful  ****
+2025-03-21 12:33:43 INFO  TC001LoginDDT:87 - ***** Finished TC001_LoginDDT   ****
+2025-03-21 12:33:43 INFO  TC001LoginDDT:19 - ***** Starting TC001_LoginDDT  ****
+2025-03-21 12:33:45 INFO  TC001LoginDDT:34 - ***** Login WebPage Successful  ****
+2025-03-21 12:33:58 ERROR TC001LoginDDT:82 - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//img[@alt='naukri user profile img']"}
+  (Session info: chrome=134.0.6998.118)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3d9cd3f4f807846d3b21921a507e42a8, findElement {value=//img[@alt='naukri user profile img'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.90 (219ee74681fc..., userDataDir: C:\Users\vishn\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64952}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64952/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3d9cd3f4f807846d3b21921a507e42a8
+2025-03-21 12:33:58 INFO  TC001LoginDDT:87 - ***** Finished TC001_LoginDDT   ****
+2025-03-21 17:08:44 INFO  TC003WriteDataToExcel:17 - ***** Starting TC003WriteDataToExcel ****
+2025-03-21 17:08:45 INFO  TC003WriteDataToExcel:28 - ***** Login WebPage Successful  ****
+2025-03-21 17:08:49 INFO  TC003WriteDataToExcel:70 - ***** Finished TC003WriteDataToExcel ****
+2025-03-21 17:08:49 INFO  TC003WriteDataToExcel:17 - ***** Starting TC003WriteDataToExcel ****
+2025-03-21 17:08:50 INFO  TC003WriteDataToExcel:28 - ***** Login WebPage Successful  ****
+2025-03-21 17:09:04 ERROR TC003WriteDataToExcel:65 - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//img[@alt='naukri user profile img']"}
+  (Session info: chrome=134.0.6998.118)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4c5b3d2bff8ff61954934391fb214eb9, findElement {value=//img[@alt='naukri user profile img'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.90 (219ee74681fc..., userDataDir: C:\Users\vishn\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56165}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56165/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c5b3d2bff8ff61954934391fb214eb9
+2025-03-21 17:09:04 INFO  TC003WriteDataToExcel:70 - ***** Finished TC003WriteDataToExcel ****
+2025-03-21 17:24:29 INFO  TC003WriteDataToExcel:17 - ***** Starting TC003WriteDataToExcel ****
+2025-03-21 17:24:29 INFO  TC003WriteDataToExcel:28 - ***** Login WebPage Successful  ****
+2025-03-21 17:24:33 INFO  TC003WriteDataToExcel:70 - ***** Finished TC003WriteDataToExcel ****
+2025-03-21 17:24:33 INFO  TC003WriteDataToExcel:17 - ***** Starting TC003WriteDataToExcel ****
+2025-03-21 17:24:35 INFO  TC003WriteDataToExcel:28 - ***** Login WebPage Successful  ****
+2025-03-21 17:24:48 ERROR TC003WriteDataToExcel:65 - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//img[@alt='naukri user profile img']"}
+  (Session info: chrome=134.0.6998.118)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [554a820e227159a4908b06b7f49be1d2, findElement {value=//img[@alt='naukri user profile img'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.90 (219ee74681fc..., userDataDir: C:\Users\vishn\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56265}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56265/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 554a820e227159a4908b06b7f49be1d2
+2025-03-21 17:24:48 INFO  TC003WriteDataToExcel:70 - ***** Finished TC003WriteDataToExcel ****
+2025-03-21 19:46:34 INFO  TC003ExcelLoginTest:28 - ***** Starting TC001_LoginDDT  ****
+2025-03-21 19:46:35 INFO  TC003ExcelLoginTest:39 - ***** Login WebPage Successful  ****
+2025-03-21 19:46:35 INFO  TC003ExcelLoginTest:66 - ***** Finished TC001_LoginDDT   ****
+2025-03-21 19:46:35 INFO  TC003ExcelLoginTest:28 - ***** Starting TC001_LoginDDT  ****
+2025-03-21 19:46:45 ERROR TC003ExcelLoginTest:61 - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='login_Layer']"}
+  (Session info: chrome=134.0.6998.118)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5b156e00efc412ad3064742331649bcf, findElement {value=//a[@id='login_Layer'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.90 (219ee74681fc..., userDataDir: C:\Users\vishn\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60433}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60433/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b156e00efc412ad3064742331649bcf
+2025-03-21 19:46:45 INFO  TC003ExcelLoginTest:66 - ***** Finished TC001_LoginDDT   ****
