@@ -41,7 +41,7 @@ public class TC003ExcelLoginTest extends BaseClass{
         // Capture login success or failure message
         String actualResult = "";
         try {
-        	WebElement successMsg = driver.findElement(By.xpath="//a[@class='nI-gNb-header__logo nI-gNb-company-logo']//img[@alt='Naukri Logo']");
+        	WebElement successMsg = driver.findElement(By.xpath("//a[@class='nI-gNb-header__logo nI-gNb-company-logo']//img[@alt='Naukri Logo']"));
             actualResult = successMsg.getText();
         } catch (Exception e) {
             actualResult = "Login Failed";
